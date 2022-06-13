@@ -1,0 +1,8 @@
+.vscode/
+.obsidian/
+
+log/*
+tmp/*
+
+*.pdf
+*.secret
